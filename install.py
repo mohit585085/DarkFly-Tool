@@ -1,13 +1,9 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
-
-subcribe my youtube Channel to learn ethical Hacking ^_^
-"""
+Author             : Ms.Mohit
+contact            : mk585085@gmail.com@
+Github             : https://github.com/Mohit585085
 
 import sys
 import os.path
